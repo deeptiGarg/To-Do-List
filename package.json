@@ -1,0 +1,12 @@
+{
+  "name": "My-To-Do-List",
+  "version": "0.0.0",
+  "description": "A Simple to-do app",
+  "main": "main.js",
+  "author": "Deepti",
+  "dependencies": {
+    "mongoose": "latest",
+    "nodemon": "latest",
+    "method-override": "latest"
+  }
+}
